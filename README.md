@@ -1,4 +1,4 @@
-# FDD-with-Decision-Tree
+# FDD with Decision Tree
 
 The prominence of data-driven techniques for identifying and addressing faults in air handling units (AHUs) has surged, mainly due to their independence from specialized system knowledge. This literature study introduces a data-driven diagnostic strategy for AHUs, leveraging decision trees constructed through the classification and regression tree (CART) algorithm. The appeal of decision trees lies in their comprehensibility and interpretability, allowing validation through testing data and expert insights. It incorporates a steady-state detector and regression model to enhance the strategy's interpretability.  While some decision tree-generated diagnostic rules align with expert knowledge, their interpretation highlights the necessity for reliability and contextual validity, underscoring the significance of interpretability in data-driven fault diagnosis models.
-This work is based on paper titled 'A decision tree based data-driven diagnostic strategy for air handling units'.
+This work is based on a paper titled 'A decision tree based data-driven diagnostic strategy for air handling units'. It can be found [here](https://www.sciencedirect.com/science/article/pii/S0378778816308854).
